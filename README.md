@@ -1,40 +1,61 @@
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-
-<h3 align="center">A passionate developer focused on [Insert your main focus, e.g., building scalable web apps and exploring open source]</h3>
-
-<br/>
-
-### 👨‍💻 Who I Am & What I Do
-- 🔭 **Currently working on:** [Name of project] – [Very brief description of what it is or what you've worked on in it]
-- 🌱 **Currently learning:** [e.g., Rust, Advanced React Patterns, Machine Learning]
-- 🎯 **What I want to do:** [e.g., Contribute more to open-source tooling, master cloud architecture]
-- 💼 **What I've worked on:** [Mention 1-2 notable past projects or roles]
-- 💬 **Ask me about:** [Your areas of expertise, e.g., Frontend Design, Python scripting, API development]
-- 📫 **How to reach me:** [Link your LinkedIn, Twitter, or email]
+<p align="center">Welcome to my split-screen dev profile.</p>
 
 ---
 
-### 📊 GitHub Stats & Highlights
+<table border="0" width="100%">
+  <tr>
+    <!-- LEFT HALF: LIGHT MODE VIBES -->
+    <td width="50%" valign="top">
+      <h3 align="center">☀️ Day Mode</h3>
+      <p align="center"><i>Building in the light...</i></p>
+      
+      <!-- About Me (Light Side) -->
+      - 🔭 **I'm working on:** [Project A]
+      - 🌱 **I'm learning:** [Frontend tech/UI]
+      - 💼 **Past work:** [Light brief here]
+      
+      <br/><br/>
+      
+      <!-- Light Profile Details Card -->
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default" width="95%">
+      </p>
+      
+      <!-- Light Language Card -->
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=default" width="95%">
+      </p>
+    </td>
 
-<p align="center">
-  <!-- Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="48%">
-  <!-- General Stats Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" width="48%">
-</p>
-<p align="center">
-  <!-- Repos per Language Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
-  <!-- Top Languages Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
-</p>
+    <!-- RIGHT HALF: DARK MODE VIBES -->
+    <td width="50%" valign="top">
+      <h3 align="center">🌙 Night Mode</h3>
+      <p align="center"><i>Refactoring in the dark...</i></p>
+      
+      <!-- About Me (Dark Side) -->
+      - 🎯 **What I want to do:** [Future Goals]
+      - 💬 **Ask me about:** [Backend tech/APIs]
+      - 📫 **Reach me at:** [Your Contact]
+      
+      <br/><br/>
+      
+      <!-- Dark Stats Card -->
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" width="95%">
+      </p>
+      
+      <!-- Dark Repos Card -->
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="95%">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⏱️ My Development Habits
+### ⏱️ Development Habits
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<br/>
-<p align="center"><i>Constantly learning, constantly building.</i></p>
