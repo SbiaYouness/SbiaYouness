@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Youness 👋</h1>
 <p align="center">Welcome to my split-screen dev profile.</p>
 
 ---
@@ -11,20 +11,22 @@
       <p align="center"><i>Building in the light...</i></p>
       
       <!-- About Me (Light Side) -->
-      - 🔭 **I'm working on:** [Project A]
-      - 🌱 **I'm learning:** [Frontend tech/UI]
-      - 💼 **Past work:** [Light brief here]
+      <ul>
+        <li>🔭 <b>I'm working on:</b> Project-RO-Reseau-SD-WAN</li>
+        <li>🌱 <b>I'm learning:</b> Advanced Python network optimization</li>
+        <li>💼 <b>Past work:</b> Dijkstra routing algorithm implementations</li>
+      </ul>
       
       <br/><br/>
       
       <!-- Light Profile Details Card -->
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default" width="95%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SbiaYouness&theme=default" width="95%">
       </p>
       
       <!-- Light Language Card -->
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=default" width="95%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SbiaYouness&theme=default" width="95%">
       </p>
     </td>
 
@@ -34,20 +36,22 @@
       <p align="center"><i>Refactoring in the dark...</i></p>
       
       <!-- About Me (Dark Side) -->
-      - 🎯 **What I want to do:** [Future Goals]
-      - 💬 **Ask me about:** [Backend tech/APIs]
-      - 📫 **Reach me at:** [Your Contact]
+      <ul>
+        <li>🎯 <b>What I want to do:</b> Master SD-WAN architectures</li>
+        <li>💬 <b>Ask me about:</b> Network optimization and LaTeXCV layouts</li>
+        <li>📫 <b>Reach me at:</b> [Your Contact Link/Email]</li>
+      </ul>
       
       <br/><br/>
       
       <!-- Dark Stats Card -->
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" width="95%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SbiaYouness&theme=tokyonight" width="95%">
       </p>
       
       <!-- Dark Repos Card -->
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="95%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SbiaYouness&theme=tokyonight" width="95%">
       </p>
     </td>
   </tr>
